@@ -1,5 +1,5 @@
 <?php 
 
-echo "Buen dia";
+echo "Buenas tardes";
 
 ?>
